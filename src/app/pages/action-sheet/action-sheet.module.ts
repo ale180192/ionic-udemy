@@ -17,6 +17,6 @@ import { ComponentsModule } from '../../components/components.module';
     ActionSheetPageRoutingModule,
     ComponentsModule
   ],
-  declarations: [ActionSheetPage]
+  declarations: [ActionSheetPage],
 })
 export class ActionSheetPageModule {}

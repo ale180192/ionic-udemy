@@ -17,6 +17,11 @@ export class InicioPage implements OnInit {
       name: 'Alert',
       icon: 'alert',
       redirectTo: '/action-sheet'
+    },
+    {
+      name: 'social1',
+      icon: 'alert',
+      redirectTo: '/social'
     }
   ];
 
